@@ -94,7 +94,7 @@ section {
     grid-template-rows: repeat(auto-fit, 5, 2fr);
 }
 section img{
-    width: 163px;
+     width: 163px;
     height: 90px;
     border: 1.5px solid black;
     border-radius: 2px;
